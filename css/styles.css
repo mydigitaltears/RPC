@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  font-family: 'Arial';
+  font-size: 40px;
+  color: white;
+  text-shadow: 0 0 6px black;
+}
+
+body {
+  background-image: url('https://media4.giphy.com/media/3ohzdGnD5vAud1NCZW/giphy.gif');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  text-align: center;
+}
+
+#userChoice {
+  padding: 10px;
+  color: white;
+  background-color: #41fae1;
+  font-size: 20px;
+  border-style: dashed;
+  border-color: pink;
+  border-radius: 20px;
+  text-align: center;
+}
+
+#submit {
+  padding: 10px;
+  color: white;
+  background-color: black;
+  font-size: 20px;
+  border-style: dashed;
+  border-color: pink;
+  border-radius: 20px;
+  text-align: center;
+}
